@@ -10,6 +10,7 @@ contributors:
 - person: $paz-ivan
 - person: $sicchio-kate
 - person: $wilson-lizzie
+- person: $morrison-ray
 
 ---
 
